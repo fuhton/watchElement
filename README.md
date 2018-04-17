@@ -5,8 +5,8 @@
   <a href="https://www.npmjs.org/package/watchelement">
     <img src="https://img.shields.io/npm/v/watchelement.svg?style=flat" alt="npm">
   </a>
-  <a href="https://travis-ci.org/fuhton/watchelement">
-    <img src="https://travis-ci.org/fuhton/watchelement.svg?branch=master" alt="travis">
+  <a href="https://travis-ci.org/fuhton/watchElement">
+    <img src="https://travis-ci.org/fuhton/watchElement.svg?branch=master" alt="travis">
   </a>
 </p>
 
@@ -71,7 +71,7 @@ ReactDOM.render(
 
 ### Examples
 
-Soon...
+Interactive example on CodeSandbox.io - https://codesandbox.io/s/4xyzq48jy7
 
 ### API
 
