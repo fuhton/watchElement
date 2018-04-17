@@ -1,5 +1,5 @@
 <p align="center">
-  ⌚️🗻 watchElement
+  ⌚️ 🗻 watchElement
   <br/>
   <br/>
   <a href="https://www.npmjs.org/package/watchelement">
