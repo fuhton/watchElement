@@ -2,7 +2,7 @@ import { Component, Children } from 'react';
 import PropTypes from 'prop-types';
 
 // Make this better...
-const isEmpty = array => !Array.isArray(array) || !array.length;
+const isEmpty = array => !array.length;
 
 const isQueryInDom = query => (
   !isEmpty(window.document.querySelectorAll(query))

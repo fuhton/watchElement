@@ -1,5 +1,5 @@
 <p align="center">
-  ⌚️ 🗻 watchElement
+  ⌚️ 🗻 watchelement
   <br/>
   <br/>
   <a href="https://www.npmjs.org/package/watchelement">
@@ -33,13 +33,13 @@
 This project uses [node](http://nodejs.org) and [npm](https://npmjs.com).
 
 ```sh
-npm install --save watchElement
+npm install --save watchelement
 ```
 
 Then with a module bundler like [webpack](https://webpack.js.org) or another bundling solution:
 
 ```js
-import WatchElementProvider from 'watchElement/provider';
+import WatchElementProvider from 'watchelement/provider';
 ```
 
 ### Support
@@ -49,8 +49,8 @@ watchElement relys on [MutationObserver](https://developer.mozilla.org/en-US/doc
 ### Usage
 
 ```js
-import WatchElementProvider from 'watchElement/provider';
-import WatchElementHOC from 'watchElement/hoc';
+import WatchElementProvider from 'watchelement/provider';
+import WatchElementHOC from 'watchelement/hoc';
 
 const Check = () => <div>Display me!</div>;
 const WrappedCheck = WatchElement('.check')(Check);
